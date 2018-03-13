@@ -158,7 +158,7 @@ public class StudentMark extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel2.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\admin.png",50,50));
+        jLabel2.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\admin.png",50,50));
         jLabel2.setMaximumSize(new java.awt.Dimension(100, 100));
         jLabel2.setMinimumSize(new java.awt.Dimension(100, 100));
         jLabel2.setName(""); // NOI18N
@@ -166,7 +166,6 @@ public class StudentMark extends javax.swing.JFrame {
         jLabel2.setVerifyInputWhenFocusTarget(false);
 
         jLabel3.setBackground(new java.awt.Color(204, 204, 204));
-        jLabel3.setIcon(new javax.swing.ImageIcon("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\studentmark_student.png")); // NOI18N
 
         lbInfo.setFont(new java.awt.Font("Tahoma", 0, 16)); // NOI18N
         lbInfo.setText("Welcome, Minh Phát");
@@ -191,7 +190,7 @@ public class StudentMark extends javax.swing.JFrame {
             .addGap(0, 14, Short.MAX_VALUE)
         );
 
-        jButton7.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\back.png",50,50));
+        jButton7.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\back.png",50,50));
         jButton7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton7ActionPerformed(evt);

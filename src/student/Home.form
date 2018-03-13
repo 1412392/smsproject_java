@@ -97,9 +97,6 @@
         <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
           <Color blue="cc" green="cc" red="cc" type="rgb"/>
         </Property>
-        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="D:\Aptech\LapTrinh_AJ1+2\AJ2\ProjectHKII\content\image\title.png"/>
-        </Property>
       </Properties>
     </Component>
     <Component class="javax.swing.JLabel" name="lbInfo">
@@ -121,7 +118,7 @@
     <Component class="javax.swing.JLabel" name="jLabel2">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
-          <Connection code="load(&quot;D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\admin.png&quot;,50,50)" type="code"/>
+          <Connection code="load(&quot;D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\admin.png&quot;,50,50)" type="code"/>
         </Property>
         <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
           <Dimension value="[100, 100]"/>
@@ -188,7 +185,7 @@
         <Component class="javax.swing.JLabel" name="jLabel9">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
-              <Connection code="load(&quot;D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\studentinfo.png&quot;,100,100)" type="code"/>
+              <Connection code="load(&quot;D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\studentinfo.png&quot;,100,100)" type="code"/>
             </Property>
           </Properties>
         </Component>
@@ -246,7 +243,7 @@
         <Component class="javax.swing.JLabel" name="jLabel5">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
-              <Connection code="load(&quot;D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\studentmark_home.jpg&quot;,100,100)" type="code"/>
+              <Connection code="load(&quot;D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\studentmark_home.jpg&quot;,100,100)" type="code"/>
             </Property>
           </Properties>
         </Component>
@@ -305,7 +302,7 @@
         <Component class="javax.swing.JLabel" name="jLabel7">
           <Properties>
             <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
-              <Connection code="load(&quot;D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\suport.png&quot;,100,100)" type="code"/>
+              <Connection code="load(&quot;D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\suport.png&quot;,100,100)" type="code"/>
             </Property>
           </Properties>
         </Component>

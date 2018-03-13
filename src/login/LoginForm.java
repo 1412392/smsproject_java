@@ -64,7 +64,7 @@ public class LoginForm extends javax.swing.JFrame {
         lblLogin.setBackground(new java.awt.Color(153, 153, 153));
         lblLogin.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
         lblLogin.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        lblLogin.setIcon(new javax.swing.ImageIcon("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\logintext.png")); // NOI18N
+        lblLogin.setIcon(new javax.swing.ImageIcon("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\logintext.png")); // NOI18N
         getContentPane().add(lblLogin);
         lblLogin.setBounds(470, 140, 229, 76);
 
@@ -93,16 +93,16 @@ public class LoginForm extends javax.swing.JFrame {
         getContentPane().add(btnLogin);
         btnLogin.setBounds(540, 390, 91, 51);
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\title.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\title.png")); // NOI18N
         getContentPane().add(jLabel1);
-        jLabel1.setBounds(90, 30, 1065, 101);
+        jLabel1.setBounds(100, 30, 1065, 101);
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 2, 14)); // NOI18N
         jLabel2.setText("Design by Võ Minh Phát");
         getContentPane().add(jLabel2);
         jLabel2.setBounds(10, 690, 164, 17);
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\bg2.gif")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\bg2.gif")); // NOI18N
         getContentPane().add(jLabel3);
         jLabel3.setBounds(0, 450, 1210, 280);
 

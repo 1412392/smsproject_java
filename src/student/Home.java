@@ -149,7 +149,6 @@ public class Home extends javax.swing.JFrame {
         setResizable(false);
 
         jLabel3.setBackground(new java.awt.Color(204, 204, 204));
-        jLabel3.setIcon(new javax.swing.ImageIcon("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\title.png")); // NOI18N
 
         lbInfo.setFont(new java.awt.Font("Tahoma", 0, 16)); // NOI18N
         lbInfo.setText("Welcome, Minh Phát");
@@ -161,7 +160,7 @@ public class Home extends javax.swing.JFrame {
             }
         });
 
-        jLabel2.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\admin.png",50,50));
+        jLabel2.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\admin.png",50,50));
         jLabel2.setMaximumSize(new java.awt.Dimension(100, 100));
         jLabel2.setMinimumSize(new java.awt.Dimension(100, 100));
         jLabel2.setName(""); // NOI18N
@@ -180,7 +179,7 @@ public class Home extends javax.swing.JFrame {
         jLabel8.setForeground(new java.awt.Color(255, 255, 255));
         jLabel8.setText("Personal Info");
 
-        jLabel9.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\studentinfo.png",100,100));
+        jLabel9.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\studentinfo.png",100,100));
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
@@ -216,7 +215,7 @@ public class Home extends javax.swing.JFrame {
         jLabel4.setForeground(new java.awt.Color(255, 255, 255));
         jLabel4.setText("View Mark");
 
-        jLabel5.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\studentmark_home.jpg",100,100));
+        jLabel5.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\studentmark_home.jpg",100,100));
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -252,7 +251,7 @@ public class Home extends javax.swing.JFrame {
         jLabel6.setForeground(new java.awt.Color(255, 255, 255));
         jLabel6.setText("Contact");
 
-        jLabel7.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\suport.png",100,100));
+        jLabel7.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\suport.png",100,100));
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);

@@ -11,7 +11,7 @@
   </resources>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="ProjectSMS.jar" size="170948" download="eager" />
+    <jar href="ProjectSMS.jar" size="170667" download="eager" />
     <jar href="lib/JTattoo-1.6.11.jar" size="1205099" download="eager" />
     <jar href="lib/PlaceHolder.jar" size="15310" download="eager" />
     <jar href="lib/itextpdf-5.4.3.jar" size="2070978" download="eager" />
