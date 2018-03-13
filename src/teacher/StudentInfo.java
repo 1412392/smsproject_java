@@ -134,7 +134,7 @@ public class StudentInfo extends javax.swing.JFrame {
         tbNowAddress.setText(current.NowAddress);
            
         if (current.Avatar.equals("")) {
-            lbImage.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\noavatar.gif", 150, 150));
+            lbImage.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\noavatar.gif", 150, 150));
 
         } else {
             //thay doi duong dan
@@ -304,7 +304,7 @@ public class StudentInfo extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel2.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\admin.png",50,50));
+        jLabel2.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\admin.png",50,50));
         jLabel2.setMaximumSize(new java.awt.Dimension(100, 100));
         jLabel2.setMinimumSize(new java.awt.Dimension(100, 100));
         jLabel2.setName(""); // NOI18N
@@ -312,6 +312,7 @@ public class StudentInfo extends javax.swing.JFrame {
         jLabel2.setVerifyInputWhenFocusTarget(false);
 
         jLabel3.setBackground(new java.awt.Color(204, 204, 204));
+        jLabel3.setIcon(new javax.swing.ImageIcon("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\title.png")); // NOI18N
 
         tbInfo.setFont(new java.awt.Font("Tahoma", 0, 16)); // NOI18N
         tbInfo.setText("Welcome, Minh Phát");
@@ -361,7 +362,7 @@ public class StudentInfo extends javax.swing.JFrame {
             }
         });
 
-        btnsearch.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\search.png",40,40));
+        btnsearch.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\search.png",40,40));
         btnsearch.setText("SEARCH");
         btnsearch.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -466,7 +467,7 @@ public class StudentInfo extends javax.swing.JFrame {
 
         jLabel24.setText("DOB");
 
-        lbImage.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\noavatar.gif",150,150));
+        lbImage.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\noavatar.gif",150,150));
 
         btnchangefile.setText("Change");
         btnchangefile.addActionListener(new java.awt.event.ActionListener() {
@@ -678,7 +679,7 @@ public class StudentInfo extends javax.swing.JFrame {
                 .addGap(22, 22, 22))
         );
 
-        jButton7.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\back.png",50,50));
+        jButton7.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\back.png",50,50));
         jButton7.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton7ActionPerformed(evt);
@@ -1072,7 +1073,7 @@ public class StudentInfo extends javax.swing.JFrame {
         tbOriginAddress.setText(null);
         tbNowAddress.setText(null);
 
-        lbImage.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\noavatar.gif", 150, 150));
+        lbImage.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\noavatar.gif", 150, 150));
 
         tbID.setText(null);
         tbPhone.setText(null);

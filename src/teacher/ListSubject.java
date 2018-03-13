@@ -246,7 +246,7 @@ public class ListSubject extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel2.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\admin.png",50,50));
+        jLabel2.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\admin.png",50,50));
         jLabel2.setMaximumSize(new java.awt.Dimension(100, 100));
         jLabel2.setMinimumSize(new java.awt.Dimension(100, 100));
         jLabel2.setName(""); // NOI18N
@@ -254,6 +254,7 @@ public class ListSubject extends javax.swing.JFrame {
         jLabel2.setVerifyInputWhenFocusTarget(false);
 
         jLabel3.setBackground(new java.awt.Color(204, 204, 204));
+        jLabel3.setIcon(new javax.swing.ImageIcon("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\listsubject.png")); // NOI18N
 
         lbInfo.setFont(new java.awt.Font("Tahoma", 0, 16)); // NOI18N
         lbInfo.setText("Welcome, Minh Phát");
@@ -303,7 +304,7 @@ public class ListSubject extends javax.swing.JFrame {
             }
         });
 
-        btnSearch.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\search.png",40,40));
+        btnSearch.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\search.png",40,40));
         btnSearch.setText("SEARCH");
         btnSearch.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -530,7 +531,7 @@ public class ListSubject extends javax.swing.JFrame {
             }
         });
 
-        goback.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectSMS\\content\\image\\back.png",50,50));
+        goback.setIcon(load("D:\\Aptech\\LapTrinh_AJ1+2\\AJ2\\ProjectHKII\\content\\image\\back.png",50,50));
         goback.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 gobackActionPerformed(evt);
